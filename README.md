@@ -3,9 +3,9 @@
 
 ![](http://i.imgur.com/JP4KC8A.png)     ![](http://i.imgur.com/E1e7cs1.png)
 
-**Use [NFE Toolbox](https://github.com/TBXin/NFirmwareEditor) for flashing and configuring your device.**
+**Use [NFE Toolbox](https://github.com/TBXin/NFirmwareEditor/releases) for flashing and configuring your device.**
 
-# List of supported devices:
+## List of supported devices:
 * eVic VTC Mini
 * eVic VTC Dual
 * eVic VTwo Mini
@@ -21,7 +21,7 @@
 * Wismec Reuleaux RX200S
 * Wismec Reuleaux RX2/3
 
-# Profiles
+## Profiles
 The main difference is the profile based user interface, so to say, the DNA-style, and the larger focus on customization than original Joyetech firmware.
 Profile is the set of parameters of used atomizer, such as coil material, resistance, power and temperature values.
 The user have 8 profiles which can be edited with NFE Toolbox, and which can be assigned to his favourite atomizers.
@@ -36,13 +36,13 @@ When you re-install this atomizer later, assigned profile will be activated auto
 If resistance of installed atomizer is not found in profiles, you'll be prompted to select new profile or re-assign existing.
 When you switching manually to profile that have saved resistance mismatch, you'll be prompted to update or keep settings of selected profile.
 
-# Main Menu
+## Main Menu
 
 Hold Fire and Plus buttons for a 1 second to enter menu.
 
 ![](http://i.imgur.com/pb04Z85.png)
 
-# Profile Menu
+## Profile Menu
 
 ![](http://i.imgur.com/mpg5ukP.png) ![](http://i.imgur.com/2UPcLHy.png) ![](http://i.imgur.com/yNH5crk.png) ![](http://i.imgur.com/kc0PYf7.png) ![](http://i.imgur.com/CNzn7vQ.png)
 
@@ -52,7 +52,7 @@ Hold Fire and Plus buttons for a 1 second to enter menu.
 * **T. Dom** - temperature-dominant regulation style;
 * **Preheat** - power control, use preheat or power curve;
 
-# Screen Menu
+## Screen Menu
 
 ![](http://i.imgur.com/6jddZL9.png) ![](http://i.imgur.com/3fRgkGN.png) ![](http://i.imgur.com/FmVjNro.png) ![](http://i.imgur.com/2UYldpC.png)
 
@@ -68,7 +68,7 @@ Hold Fire and Plus buttons for a 1 second to enter menu.
 * **Contrast** - adjust brightness of display;
 * **Skin** - change main screen style.
 
-# Settings Menu
+## Settings Menu
 
 ![](http://i.imgur.com/aDuSk3n.png) ![](http://i.imgur.com/3JeWUqf.png) ![](http://i.imgur.com/8V1VCeo.png)
 
@@ -115,3 +115,7 @@ Hold Fire and Plus buttons for a 1 second to enter menu.
      * Zinger - for graphics, ideas and tests
      * ClockSelect - for great project called myevic
      
+
+# Disclaimer:
+
+The firmware is distributed in the hope that it will be useful, but without any warranty. It is provided "as is" without warranty of any kind, either expressed or implied, including, but not limited to, the implied warranties of merchantability and fitness for a particular purpose. The entire risk as to the quality and performance of the firmware is with you.
