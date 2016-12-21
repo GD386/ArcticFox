@@ -1,7 +1,12 @@
 # ArcticFox
-*Custom Firmware for Joyetech and Wismec battery mods*
+*Custom Firmware for Joyetech, Wismec and Eleaf battery mods*
 
-![](http://i.imgur.com/JP4KC8A.png)     ![](http://i.imgur.com/E1e7cs1.png)
+![](http://i.imgur.com/JP4KC8A.png)
+![](http://i.imgur.com/E1e7cs1.png)
+
+![](http://i.imgur.com/DCy4wYg.png)
+![](http://i.imgur.com/TnqNYK1.png)
+![](http://i.imgur.com/0XTV9xD.png)
 
 **Use [NFE Toolbox](https://github.com/TBXin/NFirmwareEditor/releases) for flashing and configuring your device.**
 
@@ -18,8 +23,10 @@
 * Wismec Presa TC75W
 * Wismec Presa TC100W
 * Wismec Reuleaux RX75
+* Wismec Reuleaux RX200
 * Wismec Reuleaux RX200S
 * Wismec Reuleaux RX2/3
+* Eleaf iStick Pico 75W
 
 ## Profiles
 The main difference is the profile based user interface, so to say, the DNA-style, and the larger focus on customization than original Joyetech firmware.
@@ -40,7 +47,7 @@ When you switching manually to profile that have saved resistance mismatch, you'
 
 Hold Fire and Plus buttons for a 1 second to enter menu.
 
-![](http://i.imgur.com/pb04Z85.png)
+![](http://i.imgur.com/XSWOLDJ.png)
 
 ## Profile Menu
 
@@ -89,6 +96,7 @@ Hold Fire and Plus buttons for a 1 second to enter menu.
      - Main Menu - enter Main Menu, the same as Fire + ;
      - Preheat - preheat settings for active profile;
      - Edit Profile - enter Profile Menu;
+     - Smart On/Off
 * **RTC** - realtime clock setup;
 * **Expert** - settings for advanced users:
 
@@ -108,7 +116,10 @@ Hold Fire and Plus buttons for a 1 second to enter menu.
 * **DBG** - debug mode, for internal test purposes.
 
 
+## Info Screen
+![](http://i.imgur.com/2QoKfkX.png)
 
+Shows brief hardware information and some stats.
 
 ### Many thanks to:
      * TBXin - for NFE Products, ideas and tests
