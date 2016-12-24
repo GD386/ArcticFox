@@ -4,7 +4,7 @@
 ![](http://i.imgur.com/JP4KC8A.png)
 ![](http://i.imgur.com/E1e7cs1.png)
 
-![](http://i.imgur.com/DCy4wYg.png)
+![](http://i.imgur.com/kYJcp6I.png)
 ![](http://i.imgur.com/TnqNYK1.png)
 ![](http://i.imgur.com/0XTV9xD.png)
 
@@ -27,6 +27,10 @@
 * Wismec Reuleaux RX200S
 * Wismec Reuleaux RX2/3
 * Eleaf iStick Pico 75W
+* Eleaf iStick Pico Mega 80W
+* Eleaf Aster
+* Eleaf iStick TC100W
+* Eleaf iStick Power 80W
 
 ## Profiles
 The main difference is the profile based user interface, so to say, the DNA-style, and the larger focus on customization than original Joyetech firmware.
@@ -97,6 +101,7 @@ Hold Fire and Plus buttons for a 1 second to enter menu.
      - Preheat - preheat settings for active profile;
      - Edit Profile - enter Profile Menu;
      - Smart On/Off
+     - Show Info Screen
 * **RTC** - realtime clock setup;
 * **Expert** - settings for advanced users:
 
